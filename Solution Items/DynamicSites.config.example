@@ -24,8 +24,8 @@ Adds:
       <setting name="DynamicSites.SettingsItemPath" value="/sitecore/system/Modules/Dynamic Sites/Dynamic Site Settings" />
       <!--  Dynamic Sites - Default Site Name
             Sets the path of the Default Dynamic Sites Setting Item.
-            Default: /sitecore/system/Modules/Dynamic Sites/Dynamic Site Settings
-            Can be moved as needed.
+            Default: dynamicsites
+            Can be changed as needed.
       -->
       <setting name="DynamicSites.SiteName" value="dynamicsites" />
       <!--  Dynamic Sites - Max Cache Size
